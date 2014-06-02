@@ -1,0 +1,2 @@
+[24-Aug-2012 21:04:58] PHP Fatal error:  Call to undefined function  get_header() in /home/bigmobil/public_html/wp-content/uploads/wpsc/theme_backup/index.php on line 16
+[06-Sep-2012 10:04:10] PHP Fatal error:  Call to undefined function  get_header() in /home/bigmobil/public_html/wp-content/uploads/wpsc/theme_backup/index.php on line 16

@@ -1,0 +1,1608 @@
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-09-09 18:58:56 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/cielo/lojaexemplo-php/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 020
+     Mensagem: O status 'Pendente' não permite autorização.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-autorizacao-tid id="5c6973d3f2b7b0ab664e4970d6438da0" versao="1.1.0">
+  <tid>10069930690134FE1001</tid>
+  <dados-ec>
+      <numero>1006993069</numero>
+      <chave>25fbb99741c739dd84d7b06ec78c9bac718838630f30b112d033ce2e621b34f3</chave>
+   </dados-ec>
+</requisicao-autorizacao-tid>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-09-09 18:59:11 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/cielo/lojaexemplo-php/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 020
+     Mensagem: O status 'Pendente' não permite autorização.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-autorizacao-tid id="d36993411aa3608cd1e24807b3084a3f" versao="1.1.0">
+  <tid>10069930690134FE1001</tid>
+  <dados-ec>
+      <numero>1006993069</numero>
+      <chave>25fbb99741c739dd84d7b06ec78c9bac718838630f30b112d033ce2e621b34f3</chave>
+   </dados-ec>
+</requisicao-autorizacao-tid>
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-12 17:36:20 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/cielo/lojaexemplo-php/pages/retorno.php(Linha 11)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-12 17:43:11 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/cielo/lojaexemplo-php/pages/retorno.php(Linha 11)
+     MENSAGEM: 
+Undefined offset:  -1
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-16 17:36:44 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/cielo/lojaexemplo-php/pages/novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-16 17:36:51 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/cielo/lojaexemplo-php/pages/novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-16 17:40:34 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/cielo/lojaexemplo-php/pages/novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-16 18:10:32 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/cielo/lojaexemplo-php/pages/novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+2 WARNING - 2011-09-18 23:18:43 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 9 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-18 23:18:49 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 7 is not a valid cURL handle resource
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:24:44 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pages/novoPedidoAguarde.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:27:31 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:30:40 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:31:14 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 19)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:31:23 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 19)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:35:54 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:38:30 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:38:37 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:40:42 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:40:55 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:41:19 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:41:21 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:41:42 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:41:49 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:41:51 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:41:59 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:42:01 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:42:24 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:42:25 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-18 23:42:40 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 8)
+     MENSAGEM: 
+Undefined index:  codigoBandeira
+
+**********************************************************
+2 WARNING - 2011-09-21 13:48:45 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 13:48:53 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 7 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 13:51:14 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 13:53:24 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 13:55:42 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 13:56:44 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 13:56:57 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 13:57:38 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 14:00:36 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 14:11:10 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 15:11:20 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 15:13:43 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 15:46:03 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 15:46:04 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 7 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 15:46:05 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 7 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 15:47:48 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 7 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 15:48:29 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 7 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 15:55:11 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 7 is not a valid cURL handle resource
+
+**********************************************************
+2 WARNING - 2011-09-21 15:55:29 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 7 is not a valid cURL handle resource
+
+[21-Sep-2011 15:58:26] PHP Fatal error:  Call to undefined method Pedido::asXML() in /Applications/MAMP/htdocs/wp-iemi/biblioteca/retorno/index.php on line 13
+**********************************************************
+2 WARNING - 2011-09-21 15:58:36 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/retorno/index.php(Linha 13)
+     MENSAGEM: 
+htmlentities() expects parameter 1 to be string, object given
+
+**********************************************************
+2 WARNING - 2011-09-21 15:58:59 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 15:59:13 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/retorno/index.php(Linha 18)
+     MENSAGEM: 
+Undefined variable: objResposta
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 15:59:22 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/retorno/index.php(Linha 53)
+     MENSAGEM: 
+Undefined variable: objResposta
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 16:37:28 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 22)
+     MENSAGEM: 
+Undefined variable: wpdb
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 16:37:36 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/index.php(Linha 11)
+     MENSAGEM: 
+Uninitialized string offset: 0
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 16:46:07 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 22)
+     MENSAGEM: 
+Undefined variable: wpdb
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 16:46:21 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 22)
+     MENSAGEM: 
+Undefined variable: wpdb
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 16:46:38 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 22)
+     MENSAGEM: 
+Undefined variable: wpdb
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 16:46:49 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 22)
+     MENSAGEM: 
+Undefined variable: wpdb
+
+**********************************************************
+2 WARNING - 2011-09-21 16:53:18 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/pedido.php(Linha 2)
+     MENSAGEM: 
+require(logger.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory
+
+**********************************************************
+2 WARNING - 2011-09-21 16:53:24 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/pedido.php(Linha 2)
+     MENSAGEM: 
+require(logger.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory
+
+**********************************************************
+2 WARNING - 2011-09-21 16:53:32 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/pedido.php(Linha 2)
+     MENSAGEM: 
+require(logger.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory
+
+**********************************************************
+2 WARNING - 2011-09-21 16:54:31 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/pedido.php(Linha 2)
+     MENSAGEM: 
+require(logger.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 17:03:43 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 22)
+     MENSAGEM: 
+Undefined variable: wpdb
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 17:04:53 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 29)
+     MENSAGEM: 
+Undefined variable: wpdb
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 17:05:40 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 32)
+     MENSAGEM: 
+Undefined variable: sessionid
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 17:05:43 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 32)
+     MENSAGEM: 
+Undefined variable: sessionid
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 17:06:19 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 33)
+     MENSAGEM: 
+Undefined variable: sessionid
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 17:07:29 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 33)
+     MENSAGEM: 
+Undefined variable: sessionid
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-21 17:07:31 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 33)
+     MENSAGEM: 
+Undefined variable: sessionid
+
+**********************************************************
+2 WARNING - 2011-09-21 17:14:17 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:14:33 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:14:39 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:14:46 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:15:09 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:15:31 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:17:13 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:17:19 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:17:35 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:19:05 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:19:10 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:35:47 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:36:06 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:39:07 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 39)
+     MENSAGEM: 
+Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php:24)
+
+**********************************************************
+2 WARNING - 2011-09-21 17:40:17 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:40:26 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:40:27 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:40:42 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:40:51 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:41:41 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:42:26 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 39)
+     MENSAGEM: 
+Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php:24)
+
+**********************************************************
+2 WARNING - 2011-09-21 17:46:53 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:49:28 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 17:51:41 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 40)
+     MENSAGEM: 
+Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php:25)
+
+**********************************************************
+2 WARNING - 2011-09-21 18:24:37 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:25:35 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:25:48 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:25:49 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:25:55 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:26:01 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:26:08 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:26:20 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:26:57 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:27:16 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:31:00 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:34:17 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:35:28 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:37:41 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 18:39:19 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+[21-Sep-2011 18:52:20] PHP Fatal error:  Call to undefined method SimpleXMLElement::toString() in /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php on line 37
+[21-Sep-2011 18:55:32] PHP Fatal error:  Call to undefined method SimpleXMLElement::toString() in /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php on line 37
+**********************************************************
+2 WARNING - 2011-09-21 18:58:01 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 19:49:45 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 19:50:23 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 19:50:33 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 19:51:17 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 19:52:38 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 20:21:24 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 20:21:56 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/pagamento/retorno.php(Linha 36)
+     MENSAGEM: 
+simplexml_load_string() expects parameter 1 to be string, object given
+
+**********************************************************
+2 WARNING - 2011-09-21 20:22:46 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 20:23:01 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 20:26:53 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 20:28:04 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 20:28:21 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 22:33:46 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 9)
+     MENSAGEM: 
+session_start() [<a href='function.session-start'>function.session-start</a>]: Node no longer exists
+
+**********************************************************
+2 WARNING - 2011-09-21 22:48:36 (BRT)
+     ARQUIVO: /Applications/MAMP/htdocs/wp-iemi/biblioteca/includes/include.php(Linha 73)
+     MENSAGEM: 
+curl_error(): 8 is not a valid cURL handle resource
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-22 00:23:19 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/wp-iemi/biblioteca/pagamento/index.php(Linha 5)
+     MENSAGEM: 
+Undefined index:  wpsc_cielo_3151316661799
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-22 00:30:27 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/wp-iemi/biblioteca/pagamento/index.php(Linha 5)
+     MENSAGEM: 
+Undefined index:  wpsc_cielo_8001316662226
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-22 06:32:04 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/wp-iemi/biblioteca/pagamento/index.php(Linha 5)
+     MENSAGEM: 
+Undefined index:  wpsc_cielo_2471316683924
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-22 06:34:54 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/wp-iemi/biblioteca/pagamento/index.php(Linha 5)
+     MENSAGEM: 
+Undefined index:  wpsc_cielo_2471316683924
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-09-22 06:35:10 (BRT)
+     ARQUIVO: /home/storage/3/fd/b8/agenciaplayground/public_html/wp-iemi/biblioteca/pagamento/index.php(Linha 5)
+     MENSAGEM: 
+Undefined index:  wpsc_cielo_2841316684109
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-11-23 23:50:00 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 098
+     Mensagem: Timeout
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="91dcad06622eba327d7b28b0612e47ec" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>3671322099268</numero>
+      <valor>756500</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-11-23T23:49:35</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>diners</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=3671322099268</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-11-23 23:50:25 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 098
+     Mensagem: Timeout
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="e2bdeade139192a3e8404f35157b617e" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>3671322099268</numero>
+      <valor>756500</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-11-23T23:50:00</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>diners</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=3671322099268</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-11-23 23:50:50 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 098
+     Mensagem: Timeout
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="1c8f76ae6f82c585468bbd3c47c8618e" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>3671322099268</numero>
+      <valor>756500</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-11-23T23:50:25</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>diners</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=3671322099268</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-11-23 23:51:16 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 098
+     Mensagem: Timeout
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="0241e4d9f73e35686edf5b876e48d54f" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>3671322099268</numero>
+      <valor>756500</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-11-23T23:50:51</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>diners</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=3671322099268</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-11-23 23:52:40 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 099
+     Mensagem: Erro inesperado
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="382d11e839242b65c02c721bb48349c0" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>9091322099559</numero>
+      <valor>756500</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-11-23T23:52:39</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>diners</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=9091322099559</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-11-23 23:53:28 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 098
+     Mensagem: Timeout
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="5fbddc783efa172ef8104d2fedcd0160" versao="1.1.0">
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>9131322099583</numero>
+      <valor>756500</valor>
+      <moeda>986</moeda>
+      <data-hora>2011-11-23T23:53:03</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>elo</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=9131322099583</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2011-11-23 23:53:44 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 099
+     Mensagem: Erro inesperado
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-consulta id="e662880d035dd79d2cafbbd422da4406" versao="1.1.0">
+   <tid>10017348980720182003</tid>
+   <dados-ec>
+      <numero>1001734898</numero>
+      <chave>e84827130b9837473681c2787007da5914d6359947015a5cdb2b8843db0fa832</chave>
+   </dados-ec>
+</requisicao-consulta>
+
+**********************************************************
+8 RUNTIME NOTICE - 2011-11-23 23:53:53 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/cartao/index.php(Linha 4)
+     MENSAGEM: 
+Undefined index:  sessionid
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-06-01 16:38:26 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- Invalid decimal value: expected at least one digit: '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="59bd2bb186086cb415711cf54fa92a98" versao="1.1.0">
+   <dados-ec>
+      <numero>1024009820</numero>
+      <chave>6959098a1b38ac7664d540ff0e74b317048b05335a1b108ec3c9622bc05a2c9f</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>10</numero>
+      <valor></valor>
+      <moeda>986</moeda>
+      <data-hora>2013-06-01T16:38:26</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=10</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-06-01 16:38:45 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/cartao/index.php(Linha 4)
+     MENSAGEM: 
+Undefined index:  sessionid
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-06-01 16:38:50 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/cartao/index.php(Linha 4)
+     MENSAGEM: 
+Undefined index:  sessionid
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-06-01 16:38:54 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- Invalid decimal value: expected at least one digit: '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="2dfd5692a47051b2f0bf834353a68bbe" versao="1.1.0">
+   <dados-ec>
+      <numero>1024009820</numero>
+      <chave>6959098a1b38ac7664d540ff0e74b317048b05335a1b108ec3c9622bc05a2c9f</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>10</numero>
+      <valor></valor>
+      <moeda>986</moeda>
+      <data-hora>2013-06-01T16:38:53</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=10</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-06-01 16:47:41 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- Invalid decimal value: expected at least one digit: '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="2456c517cd078d1f34344bc2114fe1a8" versao="1.1.0">
+   <dados-ec>
+      <numero>1024009820</numero>
+      <chave>6959098a1b38ac7664d540ff0e74b317048b05335a1b108ec3c9622bc05a2c9f</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>10</numero>
+      <valor></valor>
+      <moeda>986</moeda>
+      <data-hora>2013-06-01T16:47:41</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=10</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-06-01 16:48:31 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- Invalid decimal value: expected at least one digit: '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="e7967f85070371f1ddeb7cf73b93cec4" versao="1.1.0">
+   <dados-ec>
+      <numero>1024009820</numero>
+      <chave>6959098a1b38ac7664d540ff0e74b317048b05335a1b108ec3c9622bc05a2c9f</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>10</numero>
+      <valor></valor>
+      <moeda>986</moeda>
+      <data-hora>2013-06-01T16:48:31</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=10</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-06-01 17:30:29 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- string value 'mvlrkm0kn99jvjv74dq3t7vso6' does not match pattern for numeroPedidoType in namespace http://ecommerce.cbmp.com.br: '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="afecb2bc7e5be24a0df23094b25e8466" versao="1.1.0">
+   <dados-ec>
+      <numero>1024009820</numero>
+      <chave>6959098a1b38ac7664d540ff0e74b317048b05335a1b108ec3c9622bc05a2c9f</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>mvlrkm0kn99jvjv74dq3t7vso6</numero>
+      <valor>100</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-06-01T17:30:28</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=mvlrkm0kn99jvjv74dq3t7vso6</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-06-01 17:32:19 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/cartao/index.php(Linha 5)
+     MENSAGEM: 
+Undefined index:  wpsc_cielo_999
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-06-01 17:32:22 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/cartao/index.php(Linha 5)
+     MENSAGEM: 
+Undefined index:  wpsc_cielo_999
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-06-01 17:32:28 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- string value 'mvlrkm0kn99jvjv74dq3t7vso6' does not match pattern for numeroPedidoType in namespace http://ecommerce.cbmp.com.br: '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="75492c5fbbb9a956187702b9d1510d83" versao="1.1.0">
+   <dados-ec>
+      <numero>1024009820</numero>
+      <chave>6959098a1b38ac7664d540ff0e74b317048b05335a1b108ec3c9622bc05a2c9f</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>mvlrkm0kn99jvjv74dq3t7vso6</numero>
+      <valor>100</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-06-01T17:32:28</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=mvlrkm0kn99jvjv74dq3t7vso6</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-06-27 15:52:18 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- decimal value (0) is less than minInclusive facet (1) for type of valor element in DadosPedido in namespace http://ecommerce.cbmp.com.br: '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="a6d5200082521ec7c11cc160c7b18723" versao="1.1.0">
+   <dados-ec>
+      <numero>1024009820</numero>
+      <chave>6959098a1b38ac7664d540ff0e74b317048b05335a1b108ec3c9622bc05a2c9f</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>2501372359138</numero>
+      <valor>000</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-06-27T15:52:18</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=2501372359138</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-06-29 10:03:07 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- decimal value (0) is less than minInclusive facet (1) for type of valor element in DadosPedido in namespace http://ecommerce.cbmp.com.br: '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="dd7ff73095c7b105fef3a6730125cd80" versao="1.1.0">
+   <dados-ec>
+      <numero>1024009820</numero>
+      <chave>6959098a1b38ac7664d540ff0e74b317048b05335a1b108ec3c9622bc05a2c9f</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>6061372510987</numero>
+      <valor>000</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-06-29T10:03:07</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=6061372510987</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-11-27 16:11:56 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- decimal value (0) is less than minInclusive facet (1) for type of valor element in DadosPedido in namespace http://ecommerce.cbmp.com.br: '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="2e36147772d2d8bb1fa6c817b0a119ca" versao="1.1.0">
+   <dados-ec>
+      <numero>1024009820</numero>
+      <chave>6959098a1b38ac7664d540ff0e74b317048b05335a1b108ec3c9622bc05a2c9f</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>9331385575914</numero>
+      <valor>000</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-11-27T16:11:56</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://www.iemi.com.br/pagamento/cartao/retorno.php?sessionid=9331385575914</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>1</capturar>
+</requisicao-transacao>
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-12-19 14:33:43 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-12-19 14:34:13 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-12-19 14:34:35 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-12-19 14:35:08 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-12-19 14:35:22 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-12-19 14:36:01 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-12-19 14:37:21 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2013-12-19 16:30:11 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-01-15 11:01:38 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-01-25 15:10:01 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-04 13:35:44 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-04 13:36:47 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-04 13:38:51 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-04 13:39:19 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-04 13:39:21 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-04 14:25:24 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-04 14:26:36 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-13 20:19:04 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-13 20:19:18 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-13 20:19:21 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 08:56:50 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 08:57:58 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 08:58:23 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 08:59:09 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 08:59:51 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 09:04:56 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 09:05:31 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 09:06:57 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 09:12:04 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 09:12:35 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 10:10:23 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 10:10:53 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 10:11:17 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 10:11:27 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 10:12:21 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 10:13:38 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 10:16:00 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-14 10:18:27 (BRST)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-17 09:55:01 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-27 15:18:34 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-27 15:20:29 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-27 15:20:53 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-28 11:55:24 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-28 11:56:55 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-02-28 13:17:38 (BRT)
+     ARQUIVO: /home/storage/8/26/9a/iemi/public_html/pagamento/includes/include.php(Linha 9)
+     MENSAGEM: 
+A session had already been started - ignoring session_start()
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-05-22 13:41:20 (BRT)
+     ARQUIVO: /home/iemi/www/pagamento/cartao/index.php(Linha 5)
+     MENSAGEM: 
+Undefined index: wpsc_cielo_5441400776879
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-05-22 13:44:53 (BRT)
+     ARQUIVO: /home/iemi/www/pagamento/cartao/index.php(Linha 5)
+     MENSAGEM: 
+Undefined index: wpsc_cielo_8121400777093
+
+**********************************************************
+8 RUNTIME NOTICE - 2014-05-22 13:46:21 (BRT)
+     ARQUIVO: /home/iemi/www/pagamento/cartao/index.php(Linha 5)
+     MENSAGEM: 
+Undefined index: wpsc_cielo_2541400777181
+
